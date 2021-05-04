@@ -1,0 +1,60 @@
+class:
+  class_name: EIN 个人项目
+  class_desc: 个人部署在不同地方的项目，稳定性？不存在的╭(╯^╰)╮
+  link_list:
+    1:
+      name: 博主的分享盘
+      link: http://skin.bili33.top:7777
+      avatar: https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=4020915205,3014513321&fm=15&gp=0.jpg
+      descr: 调用OneDrive来存活的
+    2:
+      name: 服务监控
+      link: https://status.c-dreamer.top
+      avatar: https://uptimerobot.com/assets/ico/favicon.ico
+      descr: 各项服务的监控啦~
+   
+class2:
+  class_name: TROIS 友人帐
+  class_desc: 小伙伴们你们好鸭~ヾ(◍°∇°◍)ﾉﾞ
+  link_list:
+    1:
+      name: さくら荘の白猫
+      link: https://2heng.xin/
+      avatar: https://view.moezx.cc/images/2018/03/27/avatar.jpg
+      descr: 一位大佬的WordPress网站
+    2:
+      name: Deleted Site
+      link: https://moa.moe/
+      avatar: https://moa.moe/static/inc/avatar.jpg
+      descr: 
+    3:
+      name: NekoX
+      link: https://nekox.cn
+      avatar: https://cdn.jsdelivr.net/gh/userunknownx/cdn/avatar.png
+      descr: ArchyMoe  『念念不忘，必有回响』
+    4:
+      name: ROYWANG
+      link: https://royacg.com
+      avatar: https://oaoq.cn/royacg.com/image/logo.jpg
+      descr: 知善恶，懂因果。但行好事，莫问前程。
+    5:
+      name: WhatZ的小窝
+      link: https://b.cupmoexpz.tk/
+      avatar: https://files.catbox.moe/fc1zg6.jpg
+      descr: 世界，你好
+    6:
+      name: 土间被活埋の小破站
+      link: https://www.umr2333.com
+      avatar: https://www.umr2333.com/wp-content/uploads/2019/08/cropped-5633172a952df16c-3.jpg
+      descr: 一个鸽子up主的小破站
+    7:
+      name: 星橙小站
+      link: http://www.itrma.com
+      avatar: https://img.itrma.com/touxiang.png
+      descr: 一颗爱分享科技橙纸
+    8:
+      name: 茶杯萌
+      link: https://www.cupmoe.com
+      avatar: https://cdn.jsdelivr.net/gh/cutemoe/moepic/img/cover/toutu.jpg
+      descr: 万物皆可萌
+       
